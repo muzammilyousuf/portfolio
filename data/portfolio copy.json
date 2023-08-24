@@ -123,11 +123,7 @@
     "education": {
       "universityName": "Software Engineer ACCP-Enterprise Edition from Aptech Computer Education",
       "universityDate": "2017",
-      "universityPara": "Aptech Limited is an Indian vocational training services provider headquartered Mumbai.",
-      "universityName": "CISCO NETWORK ACADEMY",
-      "universityDate": "2016",
-      "universityPara": "Cyber Security Essential (certificate)"
-
+      "universityPara": "Aptech Limited is an Indian vocational training services provider headquartered Mumbai."
     },
     "languages": ["Web Application", "PHP", "Javascript JS", "ASP", "Word Press", "Boot Strap", "HTML5", "CSS", "(C# DOT NET, JAVA, VB)", "MYSQL, SQL",  "HLS, RTMP Streaming IPTV",
     ],
