@@ -1,72 +1,65 @@
 {
   "name": "Chetan",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
+  "headerTaglineTwo": "I'm Mohsin Yousuf - curious",
   "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineFour": " based in Karachi, Pakistan.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/mohsinyousuf12"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/mohsin-yousuf-92453816a/"
     },
     {
       "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "title": "Upwork",
+      "link": "https://www.upwork.com/freelancers/~015d870f4750bc9e86"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "4", "title": "Facebook", "link": "https://www.facebook.com/employpulse/" },
+    { "id": "5", "title": "Email", "link": "mailto:Ymohsin100@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Showing Smart - Mobile App",
+      "description": "React Native",
+      "imageSrc": "https://content.harstatic.com/media/showing_smart/hss_screenshot@2x.jpg",
+      "url": "http://showingsmart.com/"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Har CRA - Web App",
+      "description": "React JS",
+      "imageSrc": "https://content.harstatic.com/resources/images/common/logo-blue.svg",
+      "url": "https://www.har.com/"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Gtv Network - Mobile App",
+      "description": "React Native",
+      "imageSrc": "https://image.winudf.com/v2/image1/Y29tLmd0dm5ldHdvcmtoZF9pY29uXzE2MTQzNDIzMzRfMDA5/icon.webp?w=140&fakeurl=1&type=.webp",
+      "url": "https://m.apkpure.com/gtv-network-hd/com.gtvnetworkhd"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Employee Pulse - Web and Mobile",
+      "description": "React Js - React Native",
+      "imageSrc": "https://play-lh.googleusercontent.com/dItK2J7d1uropa8Rp0SrYDB65EsiGRSSywDC4WqEUGh3_mkmICNCpePgkTyNLBHVNQ=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.employpulse"
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Media Asset Management - Web",
+      "description": "PHP",
+      "imageSrc": "https://cdn-icons-png.flaticon.com/512/3587/3587834.png",
+      "url": "http://mediaassetmanagement.php/"
     }
   ],
   "services": [
