@@ -1,4 +1,4 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+![thumbnail](file:///C:/Users/Dell/Desktop/Muzammil/portfolio/index.html)
 
 ### Live - https://react-portfolio-template.netlify.app/
 
